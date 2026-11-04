@@ -82,3 +82,9 @@ This is a **design document, not a deployed and tested implementation** — unli
 | [ics-modbus-attack-testing](https://github.com/carmelin-neto/ics-modbus-attack-testing) | The exact write-attack this design's OT Operator restriction blocks independently of network controls |
 | [ot-risk-assessment](https://github.com/carmelin-neto/ot-risk-assessment) | Identified segmentation as a single-layer control; this design supplies the second layer |
 | [ot-incident-response-scenario](https://github.com/carmelin-neto/ot-incident-response-scenario) | The stale-access-grant root cause this design's time-boxed vendor access directly addresses |
+
+---
+
+## More From This Portfolio
+
+All nine projects: [carmelin-neto.github.io](https://carmelin-neto.github.io) · [GitHub profile](https://github.com/carmelin-neto)
